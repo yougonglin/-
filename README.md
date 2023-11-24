@@ -1,5 +1,7 @@
 # 杰出人类社交商城
 
+### 网络上热门的合法搞钱方法都在这了，任何人都能搭建自己的搞钱APP
+
 #### 介绍
 使用thinkphp6搭建，包含网页端（H5+PC)，安卓端，苹果端
 
@@ -10,7 +12,10 @@
 #### 演示地址
 [https://shop.supernova98.com/](https://shop.supernova98.com/)
 
-#### 安装教程（微信扫码关注公众号查看）
+#### 开源地址
+[https://gitee.com/yourking/outstanding-human-social-mall](https://gitee.com/yourking/outstanding-human-social-mall)
+
+#### 0基础安装教程,人人都会（微信扫码关注公众号查看）
 ![微信扫码关注公众号查看](gzh.jpg)
 
 #### 功能以及其盈利方式
