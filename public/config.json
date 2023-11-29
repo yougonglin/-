@@ -1,0 +1,395 @@
+{
+    "update":{
+        "android":{
+            "apk":{
+                "describe":"1. 修复已知问题<br>2. 优化用户体验", 
+                "edition_url":"",
+                "edition_force":1,
+                "package_type":0,
+                "edition_issue":1,
+                "edition_number":100,
+                "edition_name":"1.0.0",
+                "edition_silence":0
+            },
+            "wgt":{
+                "describe":"",
+                "edition_url":"",
+                "edition_force":1,
+                "package_type":1,
+                "edition_issue":1,
+                "edition_number":100,
+                "edition_name":"1.0.0",
+                "edition_silence":1
+            }
+        },
+        "ios":{
+            "apk":{
+                "describe":"1. 修复已知问题<br>2. 优化用户体验", 
+                "edition_url":"",
+                "edition_force":1,
+                "package_type":0,
+                "edition_issue":1,
+                "edition_number":100,
+                "edition_name":"1.0.0",
+                "edition_silence":0
+            },
+            "wgt":{
+                "describe":"",
+                "edition_url":"",
+                "edition_force":1,
+                "package_type":1,
+                "edition_issue":1,
+                "edition_number":100,
+                "edition_name":"1.0.0",
+                "edition_silence":1
+            }
+        }
+    },
+    "article":[
+        {
+            "title":"经营者主体信息","url":"https://note.youdao.com/s/MCkclfcv"
+        }
+    ],
+    "shop":{
+        "indexGrid":[{"name":"返利搜索","icon":"cart-solid","url":"/pages/shop/subsidy/index"},{"name":"大额红包","icon":"wechat-circle","url":"wmhb"},{"name":"传单购买","icon":"crown-line","url":"/pages/shop/mall/index?cate_id=10"},{"name":"盲盒抽奖","icon":"fire-solid","url":"/pages/games/blind_box/index"}],
+        "indexSwiperItems":[
+            {"img":"/static/ui/xrfl.jpg","url":""}
+        ],
+        "blindBoxSwiperItems":[
+            {"img":"https://shop.supernova98.com/static/ui/mhhf.png","url":""}
+        ],
+        "vipSwiperItems":[
+            {"img":"/static/ui/cdfh.png","url":"/pages/user/invite/leaflet"}
+        ],
+        "leafletShop":"/pages/shop/mall/index?cate_id=10",
+        "selectedProducts":[
+            {
+                "promotionAmount": 848,
+                "salesTip": 4635630,
+                "goodsImageUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/euGJmYrj_m_88feb8a96fd65b727a8ff33c3a5cccbe_sx_673948_www800-800",
+                "goodsTitle": "脱骨侠酸辣无骨鸡爪鸡脚柠檬凤爪解馋小零食小吃休闲食品网红爆款",
+                "zkGoodsPrice": 4990,
+                "goodsPrice": 4990
+            },
+            {
+                "promotionAmount": 396,
+                "salesTip": 2543303,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/TbHuInZh_m_31b5e4d4b1b369a579b61e70726469f8_sx_608568_www800-800",
+                "goodsTitle": "卡滋乐巴旦木奶枣125g甄选网红灰枣大枣夹心奶香美味零食卓敏食品",
+                "zkGoodsPrice": 990,
+                "goodsPrice": 990
+            },
+            {
+                "promotionAmount": 498,
+                "salesTip": 1134555,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/temai/b585f49e09e7b8becc7dd8895bd7b748www800-800",
+                "goodsTitle": "明良网红手剥笋500g即食手剥笋香辣笋尖泡椒脆笋",
+                "zkGoodsPrice": 1990,
+                "goodsPrice": 1990
+            },
+            {
+                "promotionAmount": 270,
+                "salesTip": 277573,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/BCIDaTIP_m_38870926c058078b2a49bf328b3cdd2a_sx_145967_www600-600",
+                "goodsTitle": "十三天金凤活珠子毛蛋五香钢化蛋鸡胚蛋10-40枚",
+                "zkGoodsPrice": 1690,
+                "goodsPrice": 1690
+            },
+            {
+                "promotionAmount": 178,
+                "salesTip": 173827,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/UqJDnLcp_m_902b13fe0758e9a1fd9f3ecd0f9fdd0c_sx_571900_www800-800",
+                "goodsTitle": "南北特五香山椒盐焗味鹌鹑蛋营养早餐儿童零食",
+                "zkGoodsPrice": 990,
+                "goodsPrice": 990
+            },
+            {
+                "promotionAmount": 150,
+                "salesTip": 205440,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/veEHfMK_m_bbecfaa983703d257ce7d3c0ac5021cf_sx_1254361_www800-800",
+                "goodsTitle": "巧遇心蒟蒻果冻 低卡0脂肪低热量果汁果冻布丁",
+                "zkGoodsPrice": 999,
+                "goodsPrice": 999
+            },
+            {
+                "promotionAmount": 149,
+                "salesTip": 282,
+                "goodsImageUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/SjGJMoaL_m_677ff8837eacc1ff2e9d94bc98319dda_sx_489181_www800-800",
+                "goodsTitle": "blike 金德福山泉蒟蒻椰纤果椰果果冻椰果多180g布丁4大包",
+                "zkGoodsPrice": 990,
+                "goodsPrice": 990
+            },
+            {
+                "promotionAmount": 749,
+                "salesTip": 10768,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/UMgiGLcp_m_0649b42756a5d85543cc42635ad74603_sx_224335_www800-800",
+                "goodsTitle": "脆美人新货夏威夷果奶油味大颗粒500g*2罐干货坚果孕妇零食",
+                "zkGoodsPrice": 4990,
+                "goodsPrice": 4990
+            },
+            {
+                "promotionAmount": 199,
+                "salesTip": 813742,
+                "goodsImageUrl": "https://p6-aio.ecombdimg.com/obj/ecom-shop-material/jupGfKEv_m_098a642fd7133abf2edcf4b26186c550_sx_120076_www798-798",
+                "goodsTitle": "正道0糖椰汁椰子饮料生椰拿铁咖啡搭配饮品245ml*8瓶",
+                "zkGoodsPrice": 1990,
+                "goodsPrice": 1990
+            },
+            {
+                "promotionAmount": 150,
+                "salesTip": 1210885,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/bKGzUsIk_m_ef12d178bcbd262c8c9fb543711d294a_sx_964290_www800-800",
+                "goodsTitle": "9.99到手3袋-巧遇心俄罗斯风味巧克力太妃拉丝饼干能量棒休闲零食",
+                "zkGoodsPrice": 999,
+                "goodsPrice": 999
+            },
+            {
+                "promotionAmount": 798,
+                "salesTip": 2967616,
+                "goodsImageUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/pRmfXEf_m_89ef6ce606dced2d3183a06f4e56768b_sx_573908_www1890-1890",
+                "goodsTitle": "食尚螺正宗柳州螺蛳粉（原味，实体店味道）320g/袋火辣",
+                "zkGoodsPrice": 3990,
+                "goodsPrice": 3990
+            },
+            {
+                "promotionAmount": 697,
+                "salesTip": 107878,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/pqBxlPn_m_61bbee89230500f1ff8271f73be50f65_sx_331173_www800-800",
+                "goodsTitle": "湖中醉 麻辣虾尾9盒装 麻辣龙虾尾250g/盒 去头小龙虾尾 加热即食",
+                "zkGoodsPrice": 9960,
+                "goodsPrice": 9960
+            },
+            {
+                "promotionAmount": 317,
+                "salesTip": 563139,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/dJHgTmdZ_m_7f54f2dca7bee8920208e4ee7a1ba619_sx_488272_www800-800",
+                "goodsTitle": "新疆特产枣仁派枣夹核桃软糯酥脆高营养代餐独立包装办公室零食",
+                "zkGoodsPrice": 990,
+                "goodsPrice": 990
+            },
+            {
+                "promotionAmount": 119,
+                "salesTip": 1166887,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/PNyiULHs_m_222c9ea752d5222dcc97fcca8b6f2152_sx_363092_www800-800",
+                "goodsTitle": "安心裤安睡裤防侧漏姨妈睡眠安全裤夜用卫生巾",
+                "zkGoodsPrice": 990,
+                "goodsPrice": 990
+            },
+            {
+                "promotionAmount": 260,
+                "salesTip": 205993,
+                "goodsImageUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/bGaPDrdq_m_e9f36c576aa93eaa8bda9a2ea5e84491_sx_204525_www1200-1200",
+                "goodsTitle": "彩虹疏油抹布【30X30cm】不掉毛不沾油易清洗抹布洗碗巾",
+                "zkGoodsPrice": 650,
+                "goodsPrice": 650
+            },
+            {
+                "promotionAmount": 50,
+                "salesTip": 9759115,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/AijYTngl_m_67ff78cedcc5f0321048dee1dc42ceef_sx_364132_www800-800",
+                "goodsTitle": "漫花挂抽底部抽纸家用卫生纸整箱纸巾悬挂式面巾纸320抽/提餐巾纸",
+                "zkGoodsPrice": 990,
+                "goodsPrice": 990
+            },
+            {
+                "promotionAmount": 1196,
+                "salesTip": 283024,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/KjuuxHeS_m_04e31cfa0bf08991e2b3e822680e1b75_sx_244659_www1000-1000",
+                "goodsTitle": "泡泡染护染霜染发膏 HK2彩运来染发剂",
+                "zkGoodsPrice": 2990,
+                "goodsPrice": 2990
+            },
+            {
+                "promotionAmount": 509,
+                "salesTip": 2148648,
+                "goodsImageUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/NImfxWrj_m_849208631a02e66d972e7e067fa9252c_sx_504691_www800-800",
+                "goodsTitle": "云南农科院研发速溶黑咖啡0脂健身0添加蔗糖学生云南美式咖啡夏季",
+                "zkGoodsPrice": 1590,
+                "goodsPrice": 1590
+            },
+            {
+                "promotionAmount": 1995,
+                "salesTip": 77345,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/tpLjtZBe_m_8641036c3cc97794cb3d23d094e106ef_sx_446530_www800-800",
+                "goodsTitle": "沫檬【99.9%杀菌】洗衣机槽专用清洗剂强力除垢污渍全自动波轮滚筒",
+                "zkGoodsPrice": 3990,
+                "goodsPrice": 3990
+            },
+            {
+                "promotionAmount": 2796,
+                "salesTip": 2620518,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/LavsPqG_m_a24ff97cff92ce536254993bdc8a85f2_sx_573597_www800-800",
+                "goodsTitle": "高缇雅防脱洗发水护发素套装老姜王控油养发去屑",
+                "zkGoodsPrice": 6990,
+                "goodsPrice": 6990
+            },
+            {
+                "promotionAmount": 82,
+                "salesTip": 309950,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/fVrXQqHs_m_cddf5d95f3a99ea752e2be46d9a0cdee_sx_208181_www1015-1015",
+                "goodsTitle": "家用一次性掏耳朵优质棉签10包棉棒圆头",
+                "zkGoodsPrice": 687,
+                "goodsPrice": 687
+            },
+            {
+                "promotionAmount": 297,
+                "salesTip": 8416950,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/KMFNULt_m_c0ef3dce2a9481826f6cd5755680230e_sx_375724_www800-800",
+                "goodsTitle": "诺特兰德血橙复合B族维生素",
+                "zkGoodsPrice": 990,
+                "goodsPrice": 990
+            },
+            {
+                "promotionAmount": 150,
+                "salesTip": 182109,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/cmhPYNQo_m_d88cdb2442f390e373ed5e5d5009fa96_sx_622491_www800-800",
+                "goodsTitle": "枸杞子红枸杞宁夏无熏无染免洗150g大果颗粒饱满非姜",
+                "zkGoodsPrice": 1000,
+                "goodsPrice": 1000
+            },
+            {
+                "promotionAmount": 64,
+                "salesTip": 1533360,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/YGtjKhrn_m_361fde7b35b837ddd624c7ea4a50400a_sx_510798_www800-800",
+                "goodsTitle": "牛肉酱开胃下饭拌饭调味酱五香味香辣味",
+                "zkGoodsPrice": 799,
+                "goodsPrice": 799
+            },
+            {
+                "promotionAmount": 120,
+                "salesTip": 5849667,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/iefHBUDN_m_7fdc0aaff307baef3c9834bac13741b7_sx_209701_www800-800",
+                "goodsTitle": "内蒙古匠心特产美味熟食麻辣牛筋香辣卤味零食水晶牛筋筋头巴脑",
+                "zkGoodsPrice": 999,
+                "goodsPrice": 999
+            },
+            {
+                "promotionAmount": 50,
+                "salesTip": 418,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/flpSSTUJ_m_0f03fa16686e1c8fd30eca45cfc2847e_sx_175768_www800-800",
+                "goodsTitle": "干妈风味豆豉油辣子280g瓶装香辣拌饭拌面下饭酱辣椒酱",
+                "zkGoodsPrice": 990,
+                "goodsPrice": 990
+            },
+            {
+                "promotionAmount": 498,
+                "salesTip": 55977,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/islMGUaL_m_63d356b16dab452afde46cd1b3f95a31_sx_334017_www800-800",
+                "goodsTitle": "宝思琴巴旦木瓜子仁瓜子酥小零食坚果酥脆葵花籽",
+                "zkGoodsPrice": 1990,
+                "goodsPrice": 1990
+            },
+            {
+                "promotionAmount": 198,
+                "salesTip": 511218,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/cVRVDBY_m_089182eb3b4b8deff3d0102af61ad330_sx_699398_www800-800",
+                "goodsTitle": "辣么烧香辣味辣条素大刀肉办公追剧解馋小零食素食",
+                "zkGoodsPrice": 990,
+                "goodsPrice": 990
+            },
+            {
+                "promotionAmount": 178,
+                "salesTip": 9481223,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/UPmrQRcp_m_1de29281c482d39641d9b5c4a3c6e306_sx_723631_www800-800",
+                "goodsTitle": "质凡干吃面夜宵零食辣条干吃面方便面干脆面看剧小零食混合口味装",
+                "zkGoodsPrice": 990,
+                "goodsPrice": 990
+            },
+            {
+                "promotionAmount": 270,
+                "salesTip": 317071,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/UNjIuScp_m_2bfa821c0d1d453ed89f492cf6763199_sx_484363_www800-800",
+                "goodsTitle": "水晶紫薯仔紫薯干独立包装小薯仔即食休闲零食",
+                "zkGoodsPrice": 899,
+                "goodsPrice": 899
+            },
+            {
+                "promotionAmount": 99,
+                "salesTip": 33868,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/pLTyFZg_m_95e5c4a12ae6277ff077658076d6c475_sx_506348_www800-800",
+                "goodsTitle": "盐津铺子辣卤零食礼包香辣味休闲零食追剧解馋",
+                "zkGoodsPrice": 990,
+                "goodsPrice": 990
+            },
+            {
+                "promotionAmount": 34,
+                "salesTip": 37507,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/OcpOxhZY_m_f5232931ce856e13ac74d5975a9d6295_sx_367203_www800-800",
+                "goodsTitle": "百事可乐碳酸饮料汽水300ml*6小瓶装经典原味",
+                "zkGoodsPrice": 780,
+                "goodsPrice": 780
+            },
+            {
+                "promotionAmount": 538,
+                "salesTip": 831169,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/WJaYgcMM_m_64e178858c98cb8f37e8a528dfb7ca2d_sx_340359_www800-800",
+                "goodsTitle": "火山石烤肠黑胡椒肉肠糯米地道热狗香肠火腿肠空气炸锅",
+                "zkGoodsPrice": 2990,
+                "goodsPrice": 2990
+            },
+            {
+                "promotionAmount": 799,
+                "salesTip": 227640,
+                "goodsImageUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/lPxefSed_m_31e4e242cbc84650932d1c2cfe4bcd48_sx_370122_www800-800",
+                "goodsTitle": "免洗免浆活鱼现切黑鱼片预制菜水煮鱼",
+                "zkGoodsPrice": 5990,
+                "goodsPrice": 5990
+            },
+            {
+                "promotionAmount": 224,
+                "salesTip": 919769,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/kNwTWJUm_m_27dc9f2f841a7dcb6c3c0f16aef83302_sx_577876_www800-800",
+                "goodsTitle": "彩虹芋泥肉松沙拉三明治手工制作无边吐司健康早餐代餐面包下午茶",
+                "zkGoodsPrice": 1490,
+                "goodsPrice": 1490
+            },
+            {
+                "promotionAmount": 358,
+                "salesTip": 65891,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/oRgbGkIP_m_519312823a2c85892742370e3efcebdc_sx_392000_www800-800",
+                "goodsTitle": "豫言太和板面6桶/整箱装 安徽特色香辣牛肉味非油炸宽面 冲泡即食",
+                "zkGoodsPrice": 1990,
+                "goodsPrice": 1990
+            },
+            {
+                "promotionAmount": 538,
+                "salesTip": 420696,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/WJaYgcMM_m_bacba2b9e4cc7047e7b8b0e05d19fadf_sx_584407_www800-800",
+                "goodsTitle": "炸鸡排冷冻半成品香煎鸡扒鸡胸肉空气炸锅食材80g*11袋",
+                "zkGoodsPrice": 2990,
+                "goodsPrice": 2990
+            },
+            {
+                "promotionAmount": 40,
+                "salesTip": 259613,
+                "goodsImageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/gKMkTaKx_m_47e32cf572fc6cf165612aa82ba2c8d2_sx_837731_www800-800",
+                "goodsTitle": "华英撕烤官袋中袋吕膜包装 烤鸭腿",
+                "zkGoodsPrice": 3990,
+                "goodsPrice": 3990
+            }
+        ]
+    },
+    "applet":{
+        "indexSwiperItems":[
+            {"img":"/static/ui/tjzm.png","url":""}
+        ],
+        "indexGrid":[{"name":"饿了么1号","icon":"/static/ui/elm.png","appId":"wxece3a9a4c82f58c9","path":"commercialize/pages/taoke-guide/index?scene=ffbb0ba091ee42a7ad15c7145baf8015"},{"name":"饿了么2号","icon":"/static/ui/elm.png","appId":"wxece3a9a4c82f58c9","path":"ad-bdlm-sub/pages/wh-coupon-guide/index?scene=2990cd59f48b4f4fa6b4faead8d7d5f5"},{"name":"美团1号","icon":"/static/ui/mt.png","appId":"wxde8ac0a21135c07d","path":"index/pages/h5/h5?weburl=https%3A%2F%2Fclick.meituan.com%2Ft%3Ft%3D1%26c%3D2%26p%3D00ZYHr5zgud1&lch=cps:waimai:5:38a3c5e0a03f6298019455964a098beb:001:31:120942&f_token=1&f_userId=1"},{"name":"美团2号","icon":"/static/ui/mt.png","appId":"wxde8ac0a21135c07d","path":"index/pages/h5/h5?weburl=https%3A%2F%2Fclick.meituan.com%2Ft%3Ft%3D1%26c%3D2%26p%3D3TdqHr5zgud1&lch=cps:waimai:5:38a3c5e0a03f6298019455964a098beb:001:220:120942&f_token=1&f_userId=1"}],
+        "indexArticle":[
+            {
+                "title":"多个微信可反复领红包薅羊毛","cover":"/static/ui/logo.png","desc":"点击右上角···选择转发给朋友，发给您的小号即可","url":""
+            },
+            {
+                "title":"点外卖必看教程,教你10元买炸鸡","cover":"https://shop.supernova98.com/static/ui/viphf.png","desc":"红包的正确领取方式说明","url":"https://mp.weixin.qq.com/s/wA-t-5xNM3wz88EF-7D7YA"
+            }
+        ]
+    },
+    "star":{
+        "indexGrid":[{"name":"交友大厅","icon":"cart-solid","url":"/pages/shop/subsidy/index"},{"name":"发帖","icon":"cart-solid","url":"/pages/shop/subsidy/index"},{"name":"超级搜索","icon":"cart-solid","url":"/pages/shop/subsidy/index"},{"name":"随机聊天","icon":"wechat-circle","url":"/pages/user/invite/index"},{"name":"查找好友","icon":"fire-solid","url":"snssdk1128://lynxview?surl=https%3A%2F%2Flf-dy-sourcecdn-tos.bytegecko.com%2Fobj%2Fbyte-gurd-source%2F1325%2Fgecko%2Fresource%2Ffe_lynx_distribution_landing%2Fapp%2Ftemplate.js&hide_nav_bar=1&hide_status_bar=1&token=yeNRNLw"}],
+        "indexSwiperItems":[
+            {"img":"https://shop.supernova98.com/static/ui/zr.png","url":"https://note.youdao.com/s/4RKl93N4"}
+        ]
+    },
+    "tmp":{
+        "lsjg":{"pic":"","url":""}
+    }
+}

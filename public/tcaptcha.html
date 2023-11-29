@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>验证码</title>
+    <!-- 验证码程序依赖(必须)。请勿修改以下程序依赖，如通过其他手段规避加载，会导致验证码无法正常更新，对抗能力无法保证，甚至引起误拦截。 -->
+    <script src="https://turing.captcha.qcloud.com/TCaptcha.js"></script>
+	<!-- 必须引用。 -->
+	<script type="text/javascript" src="https://www.jiechurenlei.com/vdt.js"></script>
+</head>
+<body>
+</body>
+<script>
+
+    // 定义回调函数
+    function callback(res) {
+        uni.postMessage({ data:res });
+    }
+
+
+    // 定义验证码js加载错误处理函数
+   function loadErrorCallback() {
+        var appid = '197338208';
+        // 生成容灾票据或自行做其它处理
+        var ticket = '';
+        callback({
+          ret: 1001,
+          randstr: '@'+ Math.random().toString(36).substr(2),
+          ticket: ticket,
+          errorCode: 1001,
+          errorMessage: 'jsload_error'
+        });
+     }
+
+
+    // 定义验证码触发事件
+    document.addEventListener('UniAppJSBridgeReady', function() {
+        try {
+              // 生成一个验证码对象
+              // CaptchaAppId：登录验证码控制台，从【验证管理】页面进行查看。如果未创建过验证，请先新建验证。注意：不可使用客户端类型为小程序的CaptchaAppId，会导致数据统计错误。
+              //callback：定义的回调函数
+              var captcha = new TencentCaptcha('197338208', callback, {});
+              // 调用方法，显示验证码
+              captcha.show(); 
+        } catch (error) {
+        // 加载异常，调用验证码js加载错误处理函数
+              loadErrorCallback();
+        }
+    });
+</script>
+
+
+</html>
